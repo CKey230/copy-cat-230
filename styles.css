@@ -176,6 +176,7 @@ nav li:hover {
 
 .title-words {
     color:#333333 ;
+    display: inline-block;
 }
 /*View the latest fishing reports*/
 .fishing-report {
