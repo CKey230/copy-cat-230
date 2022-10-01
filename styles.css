@@ -37,14 +37,7 @@ footer {background-color: #1d242d;}
 
 
 .logo {
-    background-position: left top;
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding: 20px;
-    min-height: 0px;
-    display: flex;
-        display: inline-block;
-       position: relative;
+    padding: 20px; 
 }
 
 .location {
