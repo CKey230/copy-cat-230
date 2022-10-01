@@ -44,12 +44,7 @@ footer {background-color: #1d242d;}
     min-height: 0px;
     display: flex;
         display: inline-block;
-        z-index: 1;
-        overflow: hidden;
-        position: relative;
-        vertical-align: middle;
-        max-width: 100%;
-        line-height: 1;
+       position: relative;
 }
 
 .location {
